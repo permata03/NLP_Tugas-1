@@ -1,5 +1,5 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2a5e6593-056e-4b71-816a-a9f53cfaec18" />
-# Analisis Sentimen Review Produk Menggunakan NLP dan Streamlit
+ Analisis Sentimen Review Produk Menggunakan NLP dan Streamlit
 
 ## Deskripsi Proyek
 Proyek ini merupakan studi kasus penerapan **Natural Language Processing (NLP) Pipeline**
